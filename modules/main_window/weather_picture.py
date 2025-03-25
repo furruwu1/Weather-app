@@ -4,7 +4,7 @@ import customtkinter as ctk
 import PIL.Image as pil
 from ..json_functions import read_json
 
-
+print("weather image class")
 class WeatherImage(ctk.CTkLabel):
     def __init__(self, child_master: object, name_json: str, image_size: tuple):
         self.SIZE = image_size
