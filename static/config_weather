@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": -3.1965,
+        "lat": 55.9521
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 4.71,
+        "feels_like": 3.56,
+        "temp_min": 3.71,
+        "temp_max": 5.44,
+        "pressure": 1025,
+        "humidity": 78,
+        "sea_level": 1025,
+        "grnd_level": 1012
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.54,
+        "deg": 90
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1742325658,
+    "sys": {
+        "type": 2,
+        "id": 2010172,
+        "country": "GB",
+        "sunrise": 1742278806,
+        "sunset": 1742322095
+    },
+    "timezone": 0,
+    "id": 2650225,
+    "name": "Edinburgh",
+    "cod": 200
+}

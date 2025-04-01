@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": -0.6544,
+        "lat": 53.579
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 3.2,
+        "feels_like": 1.02,
+        "temp_min": 3.14,
+        "temp_max": 5.28,
+        "pressure": 1025,
+        "humidity": 75,
+        "sea_level": 1025,
+        "grnd_level": 1023
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.24,
+        "deg": 107,
+        "gust": 3.58
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1742326012,
+    "sys": {
+        "type": 2,
+        "id": 2018930,
+        "country": "GB",
+        "sunrise": 1742278191,
+        "sunset": 1742321490
+    },
+    "timezone": 0,
+    "id": 2638324,
+    "name": "Scunthorpe",
+    "cod": 200
+}

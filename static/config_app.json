@@ -1,0 +1,11 @@
+{
+  "main_frame":{
+    "title":"Weather App",
+    "height":"700",
+    "width":"1200",
+    "background_colour":"#5DA7B1"
+  },
+  "left_panel_frame":{
+    "cities": ["Scunthorpe", "Dnipro", "London", "Paris", "Berlin", "Madrid", "Oslo", "Edinburgh"]
+  }
+}
