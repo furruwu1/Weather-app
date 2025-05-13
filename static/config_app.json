@@ -3,9 +3,17 @@
     "title":"Weather App",
     "height":"700",
     "width":"1200",
-    "background_colour":"#5DA7B1"
+    "title_bar_height": "38",
+    "background_colour":"#5DA7B1",
+    "text_colour": "#FFFFFF"
   },
   "left_panel_frame":{
-    "cities": ["Scunthorpe", "Dnipro", "London", "Paris", "Berlin", "Madrid", "Oslo", "Edinburgh"]
+    "cities": ["Scunthorpe", "Dnipro", "London", "Paris", "Berlin", "Madrid", "Oslo", "Edinburgh"],
+    "left_bg_colour": "#096C82",
+    "left_city_colour": "#096C82",
+    "left_selected_colour": "#4599A4"
+  },
+  "bottom_horizontal_frame":{
+    "forecast_amount": 12
   }
 }
